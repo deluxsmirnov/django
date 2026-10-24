@@ -8,7 +8,7 @@
 
 - Python > 3.12.13
   - isort, black, autoflake
-  - Django < 5.x
+  - Django < 6.1
   - Celery[Redis]
 - VSCode
 - SQLite 3
